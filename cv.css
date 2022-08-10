@@ -15,6 +15,7 @@ h3 {
 h4 {
     font-size: large;
     color: rgb(15, 60, 15);
+    padding-left: 35%;
 }
 .ph {
     width: 200px; height: 260px;
@@ -38,7 +39,7 @@ a {
     color: rgb(0, 51, 255);
 }
 a:visited {
-    color: rgb(40, 111, 204);
+    color: rgb(52, 125, 221);
 }
 .listsoft li {
     margin-bottom: 10px;
@@ -81,4 +82,9 @@ a:visited {
         text-align: left;
         display: block;
     }
+}
+#capitline {
+    background-color: rgb(251, 212, 115);
+    margin-left: 0px;
+    padding-left: 20px;
 }
